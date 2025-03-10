@@ -1,0 +1,4 @@
+en: VietAI is a non-profit organization with the mission of cultivating artificial intelligence talents and building an international - level community of artificial intelligence experts in Vietnam.
+en: According to the latest LinkedIn report on the 2020 list of attractive and promising jobs, AI - related job titles such as AI Specialist, ML Engineer and ML Engineer all rank high.
+vi: Đội ngũ của chúng tôi khao khát tạo ra những khám phá có ảnh hưởng đến tất cả mọi người, và cốt lõi đối với phương pháp của chúng tôi là chia sẻ nghiên cứu và công cụ để thúc đẩy sự tiến bộ trong lĩnh vực này.
+vi: Chúng ta đang trên hành trình để phát triển và dân chủ hoá trí tuệ nhân tạo thông qua nguồn mở và khoa học mở.
