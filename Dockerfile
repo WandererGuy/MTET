@@ -18,7 +18,11 @@ WORKDIR /app/MTET
 RUN pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
 RUN pip install transformers
 RUN pip install fastapi uvicorn pydantic python-multipart
+RUN ln -s /usr/bin/python3 /usr/bin/python
+# port in config/config.ini
+EXPOSE 4013
+
 CMD ["python", "main.py"]
 
 # docker build --no-cache -t mtet .    
-# docker run -it --gpus all -p 5022:5022 mtet
+# docker run -it --gpus all -p 4013:4013 mtet
