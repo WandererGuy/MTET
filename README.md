@@ -1,5 +1,5 @@
 # introduction
-set up a FastAPI server using mTET model to translate English to Vietnamese
+set up a FastAPI server for serving mTET model for translating English to Vietnamese
 
 # prepare
 ```
@@ -17,5 +17,5 @@ docker run -it mtet_image bash
 ```
 # usage 
 to translate from english to vietnamese, <br>
-API endpoints stored in .\routers\infer.py
+API endpoints stored in .\routers\infer.py or open link http://127.0.0.1:4013/docs top see API docs <br>
 you can use API now
